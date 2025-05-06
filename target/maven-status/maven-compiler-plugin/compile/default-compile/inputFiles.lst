@@ -1,1 +1,13 @@
 /home/hiram/Personal Workspace/quantum-medcare/quantum-medcare-api/src/main/java/br/com/quantummedcare/api/ApiApplication.java
+/home/hiram/Personal Workspace/quantum-medcare/quantum-medcare-api/src/main/java/br/com/quantummedcare/api/configs/ApplicationConfiguration.java
+/home/hiram/Personal Workspace/quantum-medcare/quantum-medcare-api/src/main/java/br/com/quantummedcare/api/configs/JwtAuthenticationFilter.java
+/home/hiram/Personal Workspace/quantum-medcare/quantum-medcare-api/src/main/java/br/com/quantummedcare/api/configs/SecurityConfiguration.java
+/home/hiram/Personal Workspace/quantum-medcare/quantum-medcare-api/src/main/java/br/com/quantummedcare/api/controllers/AuthenticationController.java
+/home/hiram/Personal Workspace/quantum-medcare/quantum-medcare-api/src/main/java/br/com/quantummedcare/api/dtos/LoginUserDto.java
+/home/hiram/Personal Workspace/quantum-medcare/quantum-medcare-api/src/main/java/br/com/quantummedcare/api/dtos/RegisterUserDto.java
+/home/hiram/Personal Workspace/quantum-medcare/quantum-medcare-api/src/main/java/br/com/quantummedcare/api/models/Role.java
+/home/hiram/Personal Workspace/quantum-medcare/quantum-medcare-api/src/main/java/br/com/quantummedcare/api/models/User.java
+/home/hiram/Personal Workspace/quantum-medcare/quantum-medcare-api/src/main/java/br/com/quantummedcare/api/repositories/UserRepository.java
+/home/hiram/Personal Workspace/quantum-medcare/quantum-medcare-api/src/main/java/br/com/quantummedcare/api/responses/LoginResponse.java
+/home/hiram/Personal Workspace/quantum-medcare/quantum-medcare-api/src/main/java/br/com/quantummedcare/api/services/AuthenticationService.java
+/home/hiram/Personal Workspace/quantum-medcare/quantum-medcare-api/src/main/java/br/com/quantummedcare/api/services/JwtService.java
